@@ -51,3 +51,4 @@ coverage
 packages
 *.docstates
 *.InstallLog
+/Module 2 - Models in MVC/.vs/MVCMusicStore/v15/Server/sqlite3
